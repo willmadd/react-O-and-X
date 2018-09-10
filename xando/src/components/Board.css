@@ -1,0 +1,20 @@
+.board{
+    width:310px;
+    height:310px;
+    background-color: black;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left:auto;
+    margin-right: auto;
+
+}
+
+.square{
+    width: 100px;
+    height:100px;
+    background-color: white;
+    font-size:48px;
+}
+body{
+    background-color: black;
+}

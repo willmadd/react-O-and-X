@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  background-color: tomato;
+  height: 50px;
+  padding: 10px;
+  color: white;
+}
+
+
+
+body{
+  padding: 0px;
+  margin:0px;
+}
